@@ -1,6 +1,6 @@
 # PERSONAL_EXPENSE_APP
 
-Manage all your personal expense at your hand at once 
+Manage all your personal expense at your hand
 
 ## Getting Started
 
