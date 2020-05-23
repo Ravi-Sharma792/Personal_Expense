@@ -1,8 +1,12 @@
 # PERSONAL_EXPENSE_APP
 
-Manage all your personal expense at your hand
+Manage all your personal expense at your hand(Udemy - Maximilian)
 
 Check My App Here https://appetize.io/app/7jf2dttekffjnzdpkdgfbzedxg?device=pixel4xl&scale=75&orientation=portrait&osVersion=10.0
+
+
+<img src = "Screenshots/Home_Screen.jpg"> <img src = "Screenshots/New_Entry.jpg"> 
+<img src = "Screenshots/New_Entry_Calender.jpg"> <img src = "Screenshots/Transactions_Added.jpg">
 
 ## Getting Started
 
