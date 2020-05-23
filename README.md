@@ -2,6 +2,8 @@
 
 Manage all your personal expense at your hand
 
+Check My App Here https://appetize.io/app/7jf2dttekffjnzdpkdgfbzedxg?device=pixel4xl&scale=75&orientation=portrait&osVersion=10.0
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
